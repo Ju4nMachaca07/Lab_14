@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 
-const BASE_URL = "https://mi-sitio.com";
+const BASE_URL = "https://lab-14-hol7.onrender.com/";
 
 export async function GET() {
   // TAREA: Simulación de datos dinámicos provenientes de una base de datos o CMS (Requisito)
